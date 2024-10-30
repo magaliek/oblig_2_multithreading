@@ -7,6 +7,7 @@ you can ignore task 1. I'm struggling with task 2 and 3. When you run these 2 ta
 
 
 For task 2:
+
 Anne (kokk) legger på hamburger ◖1◗. Brett: [◖1◗]
 
 Mia (servitør) tar av hamburger ◖1◗. Brett: []
@@ -81,6 +82,7 @@ as you can see above the cooks and servers are more random and mine are orderly.
 
 
 for task 3:
+
 Anne (kokk) legger på hamburger ◖1◗. Brett: [◖1◗]
 
 Mia (servitør) tar av hamburger ◖1◗. Brett: []
