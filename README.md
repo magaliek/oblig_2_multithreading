@@ -4,6 +4,8 @@ my task to get my brother to help me out
 
 you can ignore task 1. I'm struggling with task 2 and 3. When you run these 2 tasks, you'll see that in task 2, the people taking and setting burgers are super in order and not random. I think it's because of the way I use the lock but I have no clue how to fix it. I've tried everything. In task 3, it's randomized but it goes too fast and as soon as a cook puts down a burger a server takes it immediately. this is the optimal outputs I need to get taken from my teacher:
 
+
+
 For task 2:
 Anne (kokk) legger på hamburger ◖1◗. Brett: [◖1◗]
 
@@ -70,7 +72,13 @@ Anne (kokk) legger på hamburger ◖16◗. Brett: [◖13◗, ◖14◗, ◖15◗,
 ... (osv) ...
 
 
+
+
 as you can see above the cooks and servers are more random and mine are orderly.
+
+
+
+
 
 for task 3:
 Anne (kokk) legger på hamburger ◖1◗. Brett: [◖1◗]
@@ -100,6 +108,9 @@ Anne (kokk) legger på hamburger ◖7◗. Brett: [◖6◗, ◖7◗]
 Knut (kokk) legger på hamburger ◖8◗. Brett: [◖6◗, ◖7◗, ◖8◗]
 
 ... (osv) ...
+
+
+
 
 
 here you can see towards the end it let's itself pile up. that never happens on mine.
